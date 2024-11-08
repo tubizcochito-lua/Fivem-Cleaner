@@ -12,7 +12,6 @@ A simple and effective tool for cleaning up your FiveM cache, enhancing performa
 - [Installation](#installation)
 - [Usage](#usage)
 - [Configuration](#configuration)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Installation
